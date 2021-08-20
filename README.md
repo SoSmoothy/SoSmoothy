@@ -24,7 +24,7 @@
   &emsp;
 </p>
 
-### 👉 FrontEnd
+### 👉 Frontend
 <p align="left">
   &emsp;
   <a href="#" target="_blank"> 
