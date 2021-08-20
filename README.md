@@ -7,11 +7,11 @@
 <p align="left">
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
    </a>
   &emsp; 
   <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   </a>
   &emsp;
   <a href="https://www.typescriptlang.org/" target="_blank"> 
@@ -24,11 +24,19 @@
   &emsp;
 </p>
 
-### 👉 Framework and Lib
+### 👉 FrontEnd
 <p align="left">
-   &emsp;
+  &emsp;
   <a href="#" target="_blank"> 
-     <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+     <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+   </a>
+  &emsp;
+  <a href="#" target="_blank"> 
+     <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+   </a>
+  &emsp;
+  <a href="#" target="_blank"> 
+     <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
    </a>
   &emsp;
   <a href="#" target="_blank"> 
@@ -37,6 +45,19 @@
   &emsp;
   <a href="#" target="_blank"> 
      <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+   </a>
+  &emsp;
+</p>
+
+### 👉 Backend
+<p align="left">
+  &emsp;
+  <a href="#" target="_blank"> 
+     <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+   </a>
+  &emsp;
+  <a href="#" target="_blank"> 
+     <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
    </a>
   &emsp;
 </p>
@@ -50,6 +71,10 @@
   &emsp;
   <a href="#" target="_blank"> 
      <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+   </a>
+  &emsp;
+  <a href="#" target="_blank"> 
+     <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
    </a>
   &emsp;
 </p>
