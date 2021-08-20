@@ -2,9 +2,74 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, Welcome <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
+## 🛠️ My Skills
+### 👉 Programming languages
+<p align="left">
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+   </a>
+  &emsp; 
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://sass-lang.com/guide" target="_blank"> 
+    <img alt="Scss" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  </a>
+  &emsp;
+</p>
+
+### 👉 Framework and Lib
+<p align="left">
+   &emsp;
+  <a href="#" target="_blank"> 
+     <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+   </a>
+  &emsp;
+  <a href="#" target="_blank"> 
+     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+   </a>
+  &emsp;
+  <a href="#" target="_blank"> 
+     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+   </a>
+  &emsp;
+</p>
+
+### 👉 Databases and Cloud
+<p align="left">
+  &emsp;
+  <a href="#" target="_blank"> 
+     <img alt="Mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+   </a>
+  &emsp;
+  <a href="#" target="_blank"> 
+     <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+   </a>
+  &emsp;
+</p>
+
+### 👉 My OS
+<p align="left">
+  &emsp;
+  <a href="#" target="_blank"> 
+     <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+   </a>
+  &emsp;
+  <a href="#" target="_blank"> 
+     <img alt="Window" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+   </a>
+  &emsp;
+</p>
+
+### 🐱My Github stats:
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sosmoothy&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="sosmoothy">
-</div>
-<div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sosmoothy&layout=compact&text_color=000&bg_color=fff)](https://github.com/anuraghazra/github-readme-stats" alt="sosmoothy">
+<img src="https://github-readme-stats.vercel.app/api?username=sosmoothy&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="sosmoothy">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sosmoothy&layout=compact&text_color=000&bg_color=fff)](https://github.com/anuraghazra/github-readme-stats" alt="sosmoothy">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sosmoothy&theme=algolia" alt="sosmoothy">
 </div>
