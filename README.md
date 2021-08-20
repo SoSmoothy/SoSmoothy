@@ -3,7 +3,7 @@
 </div>
 
 ## 🛠️ My Skills
-### 👉 Programming languages
+### 👨‍💻 Programming languages
 <p align="left">
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -28,7 +28,7 @@
   &emsp;
 </p>
 
-### 👉 Frontend
+### 👷‍♂️ Frontend
 <p align="left">
   &emsp;
   <a href="#" target="_blank"> 
@@ -61,7 +61,7 @@
   &emsp;
 </p>
 
-### 👉 Backend
+### 🕵️‍♂️ Backend
 <p align="left">
   &emsp;
   <a href="#" target="_blank"> 
@@ -74,7 +74,7 @@
   &emsp;
 </p>
 
-### 👉 Databases and Cloud
+### ☁️ Databases and Cloud
 <p align="left">
   &emsp;
   <a href="#" target="_blank"> 
@@ -91,7 +91,7 @@
   &emsp;
 </p>
 
-### 👉 My OS
+### 📱 My OS
 <p align="left">
   &emsp;
   <a href="#" target="_blank"> 
