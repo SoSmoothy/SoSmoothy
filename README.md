@@ -9,6 +9,7 @@
   <img alt="language" src="https://img.shields.io/badge/Languages-English%20%26%20Vietnam-brightgreen">
   <img alt="view" src="https://komarev.com/ghpvc/?username=sosmoothy&color=brightgreen">
 </div>
+
 ```typescript
 type Human = {
     name: string;
