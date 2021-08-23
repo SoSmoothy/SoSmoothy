@@ -131,6 +131,22 @@ sayHello(phamanhduc);
   &emsp;
 </p>
 
+### 📝 IDE and Code Editor
+<p align="left">
+  &emsp;
+  <a href="#" target="_blank"> 
+     <img alt="IDE" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+   </a>
+  &emsp;
+  <a href="#" target="_blank"> 
+     <img alt="IDE" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+   </a>
+  &emsp;
+  <a href="#" target="_blank"> 
+     <img alt="IDE" src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black">
+   </a>
+</p>
+
 ### 📱 My OS
 <p align="left">
   &emsp;
